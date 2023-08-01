@@ -2,6 +2,8 @@
 
 This is a template git repository for use by DfT analysts in R. It aims to standardise issue reporting and pull requests, as well as minimising the risk of accidentally pushing secure data.
 
+## I made a change
+
 ## To use 
 
 To use this template, click on the green button "use template" at the top of this repository. This will allow you to set up a repository as normal, using the structure and features of this repo.
